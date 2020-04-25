@@ -1,0 +1,1 @@
+javascript:{ document.getElementById('comment').value='*Comment:* Smoke testing and feature sanity check was done successfully.\n|| *Test Report* || *{color:green}Test passed{color}* |\n| *Used browsers:* |  |\n| *Used devices:* |  |\n| *App version:* | [<link to CI build>|] |'; void(0)}
